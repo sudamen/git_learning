@@ -1,4 +1,6 @@
 ![(logo)](http://images.cnitblog.com/blog2015/497279/201505/051004492043385.png)
+we are going to do some git commands 
+
 ## MJRefresh
 * An easy way to use pull-to-refresh
 
